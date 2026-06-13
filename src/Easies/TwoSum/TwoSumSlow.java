@@ -1,4 +1,4 @@
-package Easies;
+package Easies.TwoSum;
 
 public class TwoSumSlow {
 

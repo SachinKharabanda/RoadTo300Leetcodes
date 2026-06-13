@@ -1,7 +1,6 @@
-package Easies;
+package Easies.TwoSum;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 public class TwoSumFast {
